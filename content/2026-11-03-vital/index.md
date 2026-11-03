@@ -31,8 +31,10 @@ Our answer is a set of properties research communication should have:
 
 The framework adds technical detail to earlier open science principles. It also proposes moving sharing much earlier in a researcher's workflow, well before a manuscript exists, to ensure the most comprehensive and reusable reporting possible.
 
-:::{figure #vital-overview} vital-overview.png
-VIT^L: research communication of the future. Versioned, Interoperable, Transparent, Auditable, Attributable, AI-actionable and Linked.
+:::{cta} A convergence of science.
+:kicker: Save the date
+:button: Stay in the loop
+Join us **June 16–18, 2027** in Montreal for a three-day conference to transform how we share, fund, publish, measure, and reuse research. Let's push science further—together.
 :::
 
 ## What VIT^L is not

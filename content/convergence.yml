@@ -9,6 +9,9 @@ project:
     title: Convergence
     url: https://www.convergescience.org
   subject: Blog
+  plugins:
+    # Relative to each post's folder (content/<post>/), not this file. The {cta} directive.
+    - ../../plugins/cta.mjs
   contributors:
     - id: kristen
       name: Kristen Ratan

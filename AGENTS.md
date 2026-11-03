@@ -24,6 +24,20 @@ is `_template/` at the repository root, outside `content/`, so it is never built
 
 The post's URL slug on the site is set in Curvenote, not here; without one the site uses the work id.
 
+### Call to action
+
+`plugins/cta.mjs` (loaded for every post from `content/convergence.yml`) adds a `{cta}` directive: a
+sign-up banner on the Convergence website. The argument is the title, the body the description, with
+optional `:kicker:` and `:button:` (the button text, default "Keep me posted"):
+
+```markdown
+:::{cta} A convergence of science.
+:kicker: Save the date
+:button: Stay in the loop
+Join us **June 16–18, 2027** in Montreal.
+:::
+```
+
 More: <https://github.com/curvenote/actions> and the Curvenote docs (CLI → Automation → GitHub
 Actions).
 
