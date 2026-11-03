@@ -1,0 +1,20 @@
+# Copy this folder to content/YYYY-MM-DD-short-name/ to start a post. It lives outside content/
+# so the GitHub Actions never build it; `extends` below is the path once it's copied into content/.
+version: 1
+extends:
+  - ../convergence.yml
+project:
+  # A new UUID for each post (`uuidgen | tr A-Z a-z`). Never change it once submitted.
+  id: 00000000-0000-0000-0000-000000000000
+  title: Post title
+  description: One or two sentences for the listing card and share previews.
+  date: 2026-01-01
+  authors:
+    - rowan # an id from content/convergence.yml, or `- name: Full Name`
+  tags:
+    - convergence
+  # Shows under the post header and is the share image; ~1200×630 works best.
+  banner: banner.png
+  thumbnail: banner.png
+  toc:
+    - file: index.md

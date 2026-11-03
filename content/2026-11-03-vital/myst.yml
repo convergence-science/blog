@@ -1,0 +1,21 @@
+version: 1
+extends:
+  - ../convergence.yml
+project:
+  # Links this folder to its Curvenote submission: never change it once submitted.
+  id: 628f0a7c-a204-4409-b397-a87eaa0d2b05
+  title: 'VIT^L: A new framework for verifiable, reusable research'
+  description: A National Academies action group proposes VIT^L, seven properties for sharing research that people and machines can check, reuse, and build on.
+  date: 2026-11-03
+  authors:
+    - kristen
+    - nasem-aios-collaboratives
+  tags:
+    - vital
+    - open-science
+    - convergence
+  # The banner shows under the post header and is the share image; the thumbnail is the listing card.
+  banner: vital.png
+  thumbnail: vital.png
+  toc:
+    - file: index.md

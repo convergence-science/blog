@@ -1,0 +1,19 @@
+name: Curvenote publish
+on:
+  push:
+    branches: ['main']
+permissions:
+  contents: write
+jobs:
+  # Submits and publishes every post folder changed by the push, with no review step.
+  publish:
+    uses: curvenote/actions/.github/workflows/submit.yml@v1
+    with:
+      venue: convergence
+      collection: blog
+      kind: blog
+      path: content/*
+      publish: true
+    secrets:
+      CURVENOTE: ${{ secrets.CURVENOTE_TOKEN }}
+      GITHUB: ${{ secrets.GITHUB_TOKEN }}

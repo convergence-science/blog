@@ -1,0 +1,46 @@
+# Shared settings for every post, pulled in by each post's myst.yml with `extends`.
+# Paths (images, banners) are relative to the file they're written in, so keep those in the post's
+# own myst.yml, not here. Authors listed under `contributors` can be referenced by `id` in a post.
+version: 1
+project:
+  license: CC-BY-4.0
+  open_access: true
+  venue:
+    title: Convergence
+    url: https://www.convergescience.org
+  subject: Blog
+  contributors:
+    - id: kristen
+      name: Kristen Ratan
+      affiliations:
+        - id: nasem-aios
+    - id: nasem-aios-collaboratives
+      name: Contributors to the NASEM Roundtable Action Collaboratives
+      collaboration: true
+    - id: rowan
+      name: Rowan Cockett
+      email: rowan@continuousfoundation.org
+      orcid: 0000-0002-7859-8394
+      github: rowanc1
+      affiliations:
+        - id: csf
+        - id: curvenote
+  affiliations:
+    - id: nasem-aios
+      name: US National Academies Roundtable on Aligning Incentives for Open Science
+    - id: csf
+      name: Continuous Science Foundation
+      ror: https://ror.org/00zwsrq61
+      github: continuous-foundation
+      bluesky: continuous.foundation
+    - id: curvenote
+      name: Curvenote Inc.
+      country: Canada
+      ror: https://ror.org/02mz0e468
+      url: https://curvenote.com
+      github: curvenote
+  abbreviations:
+    VIT^L: Verifiable, Interoperable, Transparent, and Reusable
+    OXA: Open Exchange Architecture
+site:
+  template: book-theme
