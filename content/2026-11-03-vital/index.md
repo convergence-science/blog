@@ -49,16 +49,16 @@ Today, readers judge research mostly by proxies like a journal's name. VIT^L pro
 
 ## Connecting the dots
 
-Review platforms publish citable reviews, and funders are changing what they ask for. But most efforts run on their own, without shared standards or coordinated funding. We advocate forThe Action Collaborative group wants a set of principles that many organizations can implement, and no single one owns. It's frank about the risks: signals can be gamed, infrastructure can be captured, extra work could land on researchers, and adoption will be uneven across fields. Its own focus so far has been mostly on STEM.
+Review platforms publish citable reviews, and funders are changing what they ask for. But most efforts run on their own, without shared standards or coordinated funding. We advocate for a set of principles that many organizations can implement, and no single one owns. It's frank about the risks: signals can be gamed, infrastructure can be captured, extra work could land on researchers, and adoption will be uneven across fields. Its own focus so far has been mostly on STEM.
 
 The group is frank about the pitfalls: bad actors might game signals, platform infrastructure risks capture, additional burdens could land on scholars, and uptake will likely be uneven across disciplines - particularly given the initial emphasis on STEM fields. Additional challenges will undoubtedly surface. Addressing these obstacles head-on will be a core task at Convergence, where the broader community can collective troubleshoot solutions.
 
 ## Come build it in Montreal
 
-The VIT^L Framework will be published later in 2026, and we will invite comments and discussion. There will be an ICOR webinar (happening December 6) to discuss the framework and its connection to the Convergence Conference in early December. We are invitinge the communityyou to read the Framework, comment on it, and contribute to add and fill gaps. Stay tuned for the full release!
+The VIT^L Framework will be published later in 2026, and we will invite comments and discussion. Save the date for an ICOR webinar (happening December 6) to discuss the framework and its connection to the Convergence Conference. We are inviting the community to read the Framework, comment on it, and contribute to add and fill gaps. Stay tuned for the full release!
 
-Then bring your ideasthat work to Convergence, June 16-18, 2027, in Montreal, just after Metascience 2027. It's where the people building these pieces get in one room and start connecting them.
+Then bring your ideas to Convergence, June 16-18, 2027, in Montreal, just after Metascience 2027. It's where the people building these pieces get in one room and start connecting them.
 
-Many themes are emerging to guide discussions at Convergence including how research is assembled in a modern workflow, research assembly and the record of versions, moving towards a more modular, versioned, and machine-ready system, signals of openness, provenance and trust, curation, synthesis and reuse, and governance and sustainable funding for an open research commons.
+Many themes are emerging to guide discussions at Convergence including how research is assembled in a modern workflow, the record of versions, moving towards a more modular, versioned, and machine-ready system, signals of openness, provenance and trust, curation, synthesis and reuse, and governance and sustainable funding for an open research commons.
 
 Sign up for updates at [convergescience.org](https://www.convergescience.org/).
