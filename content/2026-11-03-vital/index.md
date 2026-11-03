@@ -5,6 +5,9 @@ abstract: |
   Open Science, a focused Action Collaborative of experts proposes VIT^L, a
   framework for sharing research modularly, with all outputs versioned and
   networked, as early as possible in ways that are checkable.
+parts:
+  # The banner image's alt text, read out by screen readers.
+  banner-alt: 'VIT^L: research communication, built for the future. A row of five purple dots, one for each letter of V, I, T, ^, and L, labeled Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-actionable (all three under the ^), and Linked.'
 ---
 
 The data is clean and analyzed. The code runs. The results hold up. And then, for a lot of researchers, the work sits for months while someone writes the paper. The article often doesn't include the data and code, and by the time it goes through the publication process, the team has moved on and opportunities to engage with the work early, iterate, and build upon it are delayed and sometimes lost.

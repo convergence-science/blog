@@ -42,7 +42,8 @@ Shared settings (license, venue, authors and their affiliations) live in `conten
 3. Fill in `myst.yml`: `title`, `description` (the listing card and share text), `date`, `authors`
    (ids from `content/convergence.yml`, or add yourself there) and `tags`.
 
-4. Add a banner image (about 1200×630, also used as the share image) and set `banner` and `thumbnail` to its file name.
+4. Add a banner image (about 1200×630, also used as the share image) and set `banner` and `thumbnail` to its file name. Describe it in
+   `parts: banner-alt:` in `index.md`'s frontmatter (its alt text).
 
 5. Write the post in `index.md`.
 
@@ -56,6 +57,8 @@ MyST is Markdown with extras for figures, callouts, cross-references and citatio
 title: Post title
 abstract: |
   A short lead paragraph, shown as a pull quote under the banner.
+parts:
+  banner-alt: What the banner image shows, read out by screen readers.
 ---
 
 ## A section

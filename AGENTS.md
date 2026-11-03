@@ -19,7 +19,7 @@ is `_template/` at the repository root, outside `content/`, so it is never built
 
 1. Copy `_template/` to `content/YYYY-MM-DD-short-name/` and give it a new `project.id` (`uuidgen | tr A-Z a-z`).
 2. Write `index.md`. Images are files committed next to the post and referenced by name (`![](figure.png)`), never embedded as base64. A Google Docs "Download → Markdown" export embeds them, so save each one as a file and replace the `![][image1]` references before committing.
-3. Set `banner` (≈1200×630, also the share image), `description`, `authors` and `tags` in `myst.yml`.
+3. Set `banner` (≈1200×630, also the share image), `description`, `authors` and `tags` in `myst.yml`. Give the banner alt text in `index.md` frontmatter as `parts: banner-alt:` (MyST has no banner-alt field; the website reads this part).
 4. Open a PR, check the preview, merge.
 
 The post's URL slug on the site is set in Curvenote, not here; without one the site uses the work id.
