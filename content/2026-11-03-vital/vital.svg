@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="966" viewBox="0 0 2000 966" role="img" aria-labelledby="vital-title">
-  <title id="vital-title">VIT^L: research communication, built for the future. Versioned, Interoperable, Transparent, Auditable, Attributable, AI-actionable, and Linked.</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="966" viewBox="0 0 2000 966" role="img" aria-labelledby="vital-title" aria-describedby="vital-desc">
+  <title id="vital-title">VIT^L: research communication, built for the future</title>
+  <desc id="vital-desc">A row of five purple dots, one for each letter of V, I, T, ^, and L, labeled Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-actionable (all three under the ^), and Linked.</desc>
   <rect width="2000" height="966" fill="#ffffff"/>
 
   <text x="150" y="125" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="61">Research communication, built for the future</text>
