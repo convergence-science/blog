@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="966" viewBox="0 0 2000 966" role="img" aria-labelledby="vital-title">
+  <title id="vital-title">VIT^L: research communication, built for the future. Versioned, Interoperable, Transparent, Auditable, Attributable, AI-actionable, and Linked.</title>
+  <rect width="2000" height="966" fill="#ffffff"/>
+
+  <text x="150" y="125" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="61">Research communication, built for the future</text>
+
+  <!-- VIT^L wordmark -->
+  <g fill="#000000">
+    <polygon points="152,197 198,197 230,303 262,197 308,197 252,357 208,357"/>
+    <rect x="326" y="197" width="38" height="160"/>
+    <polygon points="382,197 508,197 508,235 464,235 464,357 426,357 426,235 382,235"/>
+    <polygon points="655,197 693,197 693,320 750,320 750,357 655,357"/>
+  </g>
+  <polygon fill="#7b5fc7" points="527,272 559,197 593,197 625,272 591,272 576,236 561,272"/>
+
+  <!-- Timeline -->
+  <line x1="227" y1="482" x2="1722" y2="481" stroke="#dcd6f0" stroke-width="3"/>
+  <g fill="#7b5fc7">
+    <circle cx="227" cy="481" r="20"/>
+    <circle cx="601" cy="481" r="20"/>
+    <circle cx="975" cy="481" r="20"/>
+    <circle cx="1349" cy="481" r="20"/>
+    <circle cx="1722" cy="481" r="20"/>
+
+    <polygon points="186,548 209,548 229,610 249,548 272,548 241,638 217,638"/>
+    <rect x="594" y="548" width="19" height="90"/>
+    <polygon points="945,548 1018,548 1018,568 991,568 991,638 972,638 972,568 945,568"/>
+    <polygon points="1327,598 1348,556 1368,556 1389,598 1369,598 1358,575 1347,598"/>
+    <polygon points="1712,548 1731,548 1731,619 1768,619 1768,638 1712,638"/>
+  </g>
+
+  <g fill="#666666" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="51" text-anchor="middle">
+    <text x="223" y="763">Versioned</text>
+    <text x="603" y="763">Interoperable</text>
+    <text x="990" y="763">Transparent</text>
+    <text x="1366" y="763">Auditable</text>
+    <text x="1366" y="825">Attributable</text>
+    <text x="1366" y="887">AI-actionable</text>
+    <text x="1742" y="763">Linked</text>
+  </g>
+</svg>
