@@ -11,7 +11,7 @@ The data is clean and analyzed. The code runs. The results hold up. And then, fo
 
 That gap is where a new framework from an action collaborative of the US National Academies' Roundtable on Aligning Incentives for Open Science starts. The Action Collaborative calls its proposal VIT^L, Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-Actionable, and Linked. It sets out how research communication, done well and alongside the research rather than after it, can make the work actionable by humans and machines alike, helping to accelerate research outcomes and their benefits to society.
 
-From these efforts, we have launched a new conference for the broader open science, open source, research reform, research impact, and research integrity community to come together and shape the VIT^L framework and its associated initiatives. The conference is Convergence scheduled for June 16-18, 2027 in Montreal, directly following the Metascience 2027 conference.
+From these efforts, we have launched a new conference for the broader open science, open source, research reform, research impact, and research integrity community to come together and shape the VIT^L framework and its associated initiatives. The conference is Convergence scheduled for June 16-18, 2027 in Montreal, directly following the [Metascience 2027](https://metascience.info) conference.
 
 ## The article was built for print
 
@@ -57,7 +57,7 @@ The group is frank about the pitfalls: bad actors might game signals, platform i
 
 The VIT^L Framework will be published later in 2026, and we will invite comments and discussion. Save the date for an ICOR webinar (happening December 6) to discuss the framework and its connection to the Convergence Conference. We are inviting the community to read the Framework, comment on it, and contribute to add and fill gaps. Stay tuned for the full release!
 
-Then bring your ideas to Convergence, June 16-18, 2027, in Montreal, just after Metascience 2027. It's where the people building these pieces get in one room and start connecting them.
+Then bring your ideas to Convergence, June 16-18, 2027, in Montreal, just after [Metascience 2027](https://metascience.info). It's where the people building these pieces get in one room and start connecting them.
 
 Many themes are emerging to guide discussions at Convergence including how research is assembled in a modern workflow, the record of versions, moving towards a more modular, versioned, and machine-ready system, signals of openness, provenance and trust, curation, synthesis and reuse, and governance and sustainable funding for an open research commons.
 
