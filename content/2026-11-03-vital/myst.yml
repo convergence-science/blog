@@ -16,6 +16,7 @@ project:
     - convergence
   # The banner shows under the post header and is the share image; the thumbnail is the listing card.
   banner: vital.png
+  banner_alt: "VIT^L: research communication, built for the future. A row of five purple dots, one for each letter of V, I, T, ^, and L, labeled Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-actionable (all three under the ^), and Linked."
   thumbnail: vital.png
   toc:
     - file: index.md
