@@ -1,6 +1,6 @@
 # Convergence blog
 
-Posts for the Convergence blog, published to the `convergence` Curvenote site and shown on the Convergence website at `/blog`.
+Posts for the Convergence blog, published to the `convergence` Curvenote site and shown on the Convergence website's Updates page at `/updates`.
 
 <!-- curvenote-actions:start -->
 

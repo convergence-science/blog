@@ -3,7 +3,7 @@
 Posts for the [Convergence](https://www.convergescience.org) blog. Each post is written in
 [MyST Markdown](https://mystmd.org/guide), previewed locally with the Curvenote CLI, and published to
 the `convergence` site on [Curvenote](https://curvenote.com) by GitHub Actions. The Convergence
-website reads published posts from Curvenote and shows them at `/blog`.
+website reads published posts from Curvenote and shows them on its Updates page at `/updates`.
 
 ## Set up
 
@@ -124,12 +124,12 @@ Publishing happens through GitHub; you don't run `curvenote submit` yourself.
    PR with a preview link and the check results. Pushing more commits updates the draft.
 3. Merge the PR. The **publish** workflow submits the post to the `convergence` site and publishes
    it straight away (there is no editorial review step on Curvenote, so review happens on the PR).
-4. The post appears on the website's `/blog` within a few minutes.
+4. The post appears on the website's Updates page (`/updates`) within a few minutes.
 
 To change a published post, edit it and go through the same PR → merge steps; Curvenote keeps the
 earlier versions.
 
-The post's URL on the website is its Curvenote slug (for example `/blog/2026-11-03-vital`), set on
+The post's URL on the website is its Curvenote slug (for example `/updates/2026-11-03-vital`), set on
 the work in Curvenote. Until it has one, the URL uses the work's ID, which then redirects to the
 slug once it's set.
 
