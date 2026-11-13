@@ -7,12 +7,12 @@ abstract: |
   networked, as early as possible in ways that are checkable.
 parts:
   # The banner image's alt text, read out by screen readers.
-  banner-alt: 'VIT^L: research communication, built for the future. A row of five purple dots, one for each letter of V, I, T, ^, and L, labeled Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-actionable (all three under the ^), and Linked.'
+  banner-alt: 'VIT^L: research communication, built for the future. A row of five purple dots, one for each letter of V, I, T, ^, and L, labeled Versioned, Interoperable, Timely, Auditable, Attributable, and AI-actionable (all three under the ^), and Linked.'
 ---
 
 The data is clean and analyzed. The code runs. The results hold up. And then, for a lot of researchers, the work sits for months while someone writes the paper. The article often doesn't include the data and code, and by the time it goes through the publication process, the team has moved on and opportunities to engage with the work early, iterate, and build upon it are delayed and sometimes lost.
 
-That gap is where a new framework from an action collaborative of the US National Academies' Roundtable on Aligning Incentives for Open Science starts. The Action Collaborative calls its proposal VIT^L, Versioned, Interoperable, Transparent, Auditable, Attributable, and AI-Actionable, and Linked. It sets out how research communication, done well and alongside the research rather than after it, can make the work actionable by humans and machines alike, helping to accelerate research outcomes and their benefits to society.
+That gap is where a new framework from an action collaborative of the US National Academies' Roundtable on Aligning Incentives for Open Science starts. The Action Collaborative calls its proposal VIT^L, Versioned, Interoperable, Timely, Auditable, Attributable, and AI-Actionable, and Linked. It sets out how research communication, done well and alongside the research rather than after it, can make the work actionable by humans and machines alike, helping to accelerate research outcomes and their benefits to society.
 
 From these efforts, we have launched a new conference for the broader open science, open source, research reform, research impact, and research integrity community to come together and shape the VIT^L framework and its associated initiatives. The conference is Convergence scheduled for June 16-18, 2027 in Montreal, directly following the [Metascience 2027](https://metascience.info) conference.
 
@@ -26,7 +26,7 @@ Our answer is a set of properties research communication should have:
 
 - **Versioned.** Work is released as labeled, identifiable versions, so its development and corrections are visible.
 - **Interoperable.** Outputs and their metadata follow open standards and move between platforms without losing context.
-- **Transparent.** Data, code, protocols, and checks are identifiable, available, and understandable.
+- **Timely.** Research outputs are openly shared as soon as the researcher deems them ready. Checks, reviews, and curation follow and accumulate on the record as signals.
 - **Auditable.** Every check is on the record, and every claim links to its evidence.
 - **Attributable.** Credit goes to whoever made each piece, from a dataset to a figure, and follows it wherever it's reused.
 - **AI-actionable.** People and machines can rerun analyses, reuse data, or test results directly, without rebuilding them from a narrative.

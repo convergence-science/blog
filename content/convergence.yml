@@ -43,7 +43,7 @@ project:
       url: https://curvenote.com
       github: curvenote
   abbreviations:
-    VIT^L: Versioned, Interoperable, Transparent, Auditable, Attributable, AI-actionable, and Linked
+    VIT^L: Versioned, Interoperable, Timely, Auditable, Attributable, AI-actionable, and Linked
     OXA: Open Exchange Architecture
 site:
   template: book-theme
