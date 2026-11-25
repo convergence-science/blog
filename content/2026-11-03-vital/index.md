@@ -60,7 +60,7 @@ The group is frank about the pitfalls: bad actors might game signals, platform i
 
 ## Come build it in Montreal
 
-The VIT^L Framework will be published later in 2026, and we will invite comments and discussion. Save the date for an ICOR webinar (happening **December 8th**: 8am PDT, 11am EDT, 4pm GMT, 5PM CT) to discuss the framework and its connection to the Convergence Conference. We are inviting the community to read the Framework, comment on it, and contribute to add and fill gaps.
+The VIT^L Framework will be published on **December 1, 2026**, and we will invite comments and discussion. Join the ICOR webinar, *VIT^L Framework and Convergence Community Discussion*, on **Tuesday, December 8** (8am PT, 11am ET, 4pm GMT, 5pm CET) to discuss the framework and its connection to the Convergence Conference. [Register for the webinar](https://incentivizingopen.org/2026/11/vitl-framework-and-convergence-community-discussion/). We are inviting the community to read the Framework, comment on it, and contribute to add and fill gaps.
 
 Then bring your ideas to Convergence, June 16-18, 2027, in Montreal, just after [Metascience 2027](https://metascience.info). It's where the people building these pieces get in one room and start connecting them.
 
